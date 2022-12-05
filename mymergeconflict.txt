@@ -1,6 +1,6 @@
 Hello, World.
 
 
-This is a file used to experiment with merge conflicts. Other addtions in Repo B
+This is a file used to HELLO 123 experiment with merge conflicts. New text in HELLO ABC repo A repo B
 
 Base File commit from B.
