@@ -1,0 +1,6 @@
+Hello, World.
+
+
+This is a file used to experiment with merge conflicts.
+
+Base File.
