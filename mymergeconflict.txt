@@ -3,4 +3,4 @@ Hello, World.
 
 This is a file used to experiment with merge conflicts. Other addtions in Repo B
 
-Base File.
+Base File commit from B.
